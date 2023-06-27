@@ -14,11 +14,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Creating a sample website 
 
-## Project 2
+## Deep learning
 
-Second Project
-### Project 3
-
+To learn AI concepts using deep learning
+### Computer Vision
+To perform OCR using CV
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
